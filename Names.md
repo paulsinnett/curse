@@ -2,7 +2,7 @@
 
  [Origins and meaning](https://www.behindthename.com/names/usage/scottish/origin/celtic)
 
-## Male
+## Illuskan, Northlander, Male
 
 d100 | Name
 -|-
@@ -89,7 +89,7 @@ d100 | Name
 98|TADHG
 99-100|TEÀRLACH
 
-## Female
+## Illuskan, Northlander, Female
 
 d100 | Name
 -|-
